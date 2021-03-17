@@ -1,0 +1,20 @@
+<div class="footer">
+
+	<footer class="footer">
+		<p>	
+			<br>
+			<br>
+			Software Library
+			<br>
+			<br>Joel Meier Ali Ordu
+			<br>
+			<br><a class=hyperlink href="mailto:software.library@mail.com">software.library@mail.com</a>
+			<br>
+			<br>Software Library AG
+			<br>Ebikonerstrasse 75
+			<br>6030 Ebikon
+		</p>
+		<br>
+	</footer>
+</div>
+		  
